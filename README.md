@@ -6,5 +6,8 @@ In order to get started on today’s exercise, you will need to open a Google Co
 - Once you are on the GitHub page for the notebook you should see a blue button right above the top of the notebook. It will say “Open in Colab.” Press it.
 - You should now have the notebook opened in Google Colab.
 
-Please follow the instructions in the notebook from this point forward.
+Please follow the instructions in the notebook. Once you have worked through the introduction notebook, move on the others in this order:
+- 
+-
+-
 
