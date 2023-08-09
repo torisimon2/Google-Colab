@@ -8,7 +8,11 @@ In order to get started on today’s exercise, you will need to open a Google Co
 
 Please follow the instructions in the notebook. Once you have worked through the introduction notebook, move on the others in this order:
 
-- pdgd_attack_adv_training_ipynb
-- Jordan_FGSM_Demo
--
+- **PDGD Attack:** pdgd_attack_adv_training_ipynb
+- **FGSM Attack:** Jordan_FGSM_Demo
+- Choose from one of the following for the **Trojan Attack** (depending on your data set preference):
+  - **GPRW Dataset:** TrojanAttackAndAutoencoderDemoCNN1D_GPWRDataNotebook.ipynb
+  - **Ashera Dataset:** TrojanAttackAndAutoencoderDemoNotebookTrojanCNN2D_AsherahData.ipynb
+
+If you find yourself short on time, you may substitute the choise of the last two for the DemoGPWR_AutoencoderToDetectTrojanTrigger.ipynb notebook, which demonstrates the defense but not the attack. 
 
